@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or suggestions, please contact:
 - GitHub: [@sy22478](https://github.com/sy22478)
-- Email: [Your Email]
+- Email: sonu.yadav19997@gmail.com
 
 ## Acknowledgments
 
