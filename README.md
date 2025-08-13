@@ -133,14 +133,6 @@ The analysis reveals important insights about visa approval patterns:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## Future Enhancements
-
-- Integration with real-time visa processing systems
-- Development of a web-based prediction interface
-- Implementation of deep learning models
-- Addition of more comprehensive feature engineering
-- Multi-class classification for different visa types
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -150,13 +142,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, please contact:
 - GitHub: [@sy22478](https://github.com/sy22478)
 - Email: sonu.yadav19997@gmail.com
-
-## Acknowledgments
-
-- Dataset providers and immigration authorities
-- Open-source machine learning community
-- Contributors and collaborators
-
 ---
 
 *This project is for educational and research purposes. Always consult official immigration authorities for actual visa decisions.*
